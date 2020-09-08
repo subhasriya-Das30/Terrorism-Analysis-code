@@ -1,0 +1,13 @@
+ .backgroundimage {background-image:url(/assets/terrorist.jpg);
+                                                     background-repeat: no repeat;
+	background-position: center;
+    background-attachment:fixed;
+	background-size: cover;
+padding-top: 5px;
+    padding-left:5px;
+    padding-right: 5px;
+    padding-bottom:10px;
+  border-style: solid;
+  font-weight:bolder
+
+    }

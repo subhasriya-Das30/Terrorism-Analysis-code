@@ -1,0 +1,13 @@
+.header
+{text-align: center;
+        color: white;
+        font-variant: small-caps ;
+letter-spacing:2px;
+        font-size:400%;
+        text-shadow:6px 6px 10px #2D2B3A;
+	background-position : 50%,50%;
+    background-attachment :fixed;
+	background-size: scroll;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    }
